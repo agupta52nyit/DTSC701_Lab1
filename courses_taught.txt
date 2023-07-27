@@ -1,0 +1,544 @@
+Ali Abolmaali: Courses not available.
+Gbemeho Agbaglah: ME 3300 Fluid Mechanics: Theory & Laboratory ME 4300/5330 Thermal-Fluid Systems Design ME 5995 Numerical Methods for Engineering Applications ME 7995 Introduction to Multiphase Flows
+Dr. Raef Aidibi: Ph.D. Systems Engineering (ECE), Oakland University, Rochester Hills, MIMS Electrical & Computer Engineering, Oakland University, Rochester Hills, MIMS Computer Science (Embedded Systems), Oakland University, Rochester Hills, MIBS Electrical Engineering, Lawrence Technological University, Southfield, MI
+Mohammed Alawad: Ph.D. in Computer Engineering, University of Central Florida, 2016
+Lubna Alazzawi: Courses not available.
+Alex Albaugh: Courses not available.
+Mohammad Alhawari: Courses not available.
+Yara Almubarak: Courses not available.
+Leela Mohana Reddy Arava: Lithium-ion, Lithium-sulfur and Lithium-air chemistries using novel electrolytesGrowth and applications of 2D and 3D nanostructuresLightweight nanocomposite materialsFlexible integrated energy devicesSmart coatings
+Suzan Arslanturk: Courses not available.
+Ivan Avrutsky: ECE7030 - Mathematical Methods in Engineering I
+Mohsen Ayoobi: Ph.D., Mechanical Engineering, Louisiana State University, 2015Ph.D. (Minor), Mathematics, Louisiana State University, 2014M.Sc., Mechanical Engineering, Isfahan University of Technology, 2010B.Sc., Mechanical Engineering, Isfahan University of Technology, 2007
+Cameron Bass: Courses not available.
+Amar Basu: Courses not available.
+Victor Berdichevsky: Courses not available.
+Cynthia Bir: Courses not available.
+Camille Bishop: Courses not available.
+Dr. James Boileau: Courses not available.
+Dr. Amiangshu Bosu: CSC 4110: Software Engineering CSC 6110: Software Engineering (Graduate)
+Marco Brocanelli: Courses not available.
+Monica Brockmeyer: Courses not available.
+Zhiqiang Cao: Courses not available.
+Alberto Castro Hernandez: Courses not available.
+Nabil Chalhoub: ME/CE 2400 Statics & Mechanics of Materials ME 4420 Analysis and Control of Dynamic Systems ME 5400 Dynamics II ME 7400 Advanced Dynamics ME 6550 Modeling and Control of Dynamic Systems ME 7550 Optimal Control ME 7590 Nonlinear Control ME 7990 Directed Study
+Kenneth Chelst: Courses not available.
+Jimmy Ching-Ming Chen: Courses not available.
+Wen Chen: ET5110 Advanced Programmable Controllers and Industrial Applications
+EET4200 Control Systems
+EET 3180 Analog Electronics
+EET3150 network Analysis
+EET3720 Microcontroller
+Ratna Babu Chinnam: Courses not available.
+Evrim Dalkiran: IE 4310: Production Control IE 6560: Deterministic Optimization IE 7995: Special Topics in Advanced Optimization Techniques (New Graduate Course) IE 7210: Linear and Nonlinear Optimization (New Graduate Course) ISE 3214: Facilities Planning and Material Handling (Virginia Tech)
+Tapan Datta: Transportation EngineeringTraffic Engineering and Safety
+Da Deng: CHE 7200 - Advanced Transport Phenomena
+CHE 5995 - Spec Topics Che 1:Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+EVE 5120 / AET 5310 - Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+Timothy Dittrich: Courses not available.
+Ana Djuric: Courses not available.
+Ming Dong: Courses not available.
+Zheng Dong: Courses not available.
+Sorin Draghici: Courses not available.
+Helen Durand: Courses not available.
+Christopher Eamon: PhD, Civil Engineering, University of Michigan, 2000 MSE, Civil Engineering, University of Michigan, 1996 MArch, University of Michigan, 1995 BS, Arch, University of Wisconsin, 1993
+Darin Ellis: Courses not available.
+Robert Erlandson: Courses not available.
+Nathan Fisher: Courses not available.
+Farshad Fotouhi: Courses not available.
+Azad Ghaffari: Ph.D., University of California, San DiegoM.S., K.N. Toosi University of Technology, Tehran, IranB.S., K.N. Toosi University of Technology, Tehran, Iran
+Narendra Goel: Courses not available.
+Daniel Grosu: Courses not available.
+Xiaoyan Han: Courses not available.
+Zhizhong Han: Courses not available.
+Carolyn Harris: Courses not available.
+M Arif Hasan: Acoustic Analogous to “Entangled” States of Quantum Bits (and Trits) Topological Characteristics in Classical Wave Metamaterials
+Mohamad Hassoun: Courses not available.
+Naeim Henein: Courses not available.
+Jing Hua: Courses not available.
+Yaoxian Huang: CE 4210 Introduction to Environmental EngineeringCE 5240/7240 (Advanced) Air Pollution EngineeringCE 6160/7160 (Advanced) Principles of Atmospheric Chemistry and Applications  CE 7270 Big Data Applications in Environmental Engineering
+Yinlun Huang: Multiscale Complex System Modeling, Analysis, and Decision MakingSustainabiilty Science and EngineeringIntegrated Material, Product, and Process DesignProcess Synthesis and IntegrationSustainable and Smart Manufacturing
+Raouf Ibrahim: Nonlinear vibration and dynamics
+Nonlinear modal interaction under deterministic and random and excitations
+Friction induced vibration in disc brakes and sliding surfaces
+Friction-based isolation
+Stochastic Flutter of Aeroelastic Structures
+Mahbub Islam: Courses not available.
+Mohammed Ismail: Courses not available.
+Mark Jager: Courses not available.
+Rhongho Jang: [NDSS 2023] A Robust Counting Sketch for Data Plane Intrusion Detection[CCS 2022] A Scalable and Dynamic ACL System for In-Network Defense[NeurIPS 2022] AttCAT: Explaining Transformers via Attentive Class Activation Tokens[RAID 2022] Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems [DSN 2022] Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows[TMC 2022] A One-Page Text Entry Method Optimized for Rectangle Smartwatches [ToN 2022] A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet [TDSC 2021] DL-based Fine-grained Hierarchical Learning Approach for Robust Malware Classification [INFOCOM 2020] SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event [INFOCOM 2020] DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting [ICDCS 2020] Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers [TMC 2020, ICDCS 2017] Rogue Access Point Detection Using Intentional Channel Interference[ICDCS 2019] Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows[INFOCOM 2017] RFlow+: An SDN-based WLAN Monitoring and Management Framework
+Prashant Khanduri: Courses not available.
+Kyoung-Yun Kim, Ph.D.: Courses not available.
+Albert King: Courses not available.
+Ulrike Klueh: Courses not available.
+Hyun Koo: Defect and Risk Management Design management and Building Information Modeling (BIM)  Adaptive Reuse of Buildings
+Alexander Kotov: Courses not available.
+Zhifeng Kou: Courses not available.
+Jerry Ku: Courses not available.
+Ming-Chia Lai: American Society of Mechanical Engineering (ASME): Fellow
+Society of Automotive Engineers (SAE): Fellow
+American Institute of Aeronautics and Astronautics (AIAA)
+The Combustion Institute
+Institute of Liquid Atomization and Spray System (ILASS)-America Section
+Mai Lam: Courses not available.
+Steven Lavrenz: Ph.D., Civil Engineering, Purdue UniversityM.S., Civil Engineering, Iowa State UniversityB.S., Civil Engineering, Iowa State University
+Feng Lin: Courses not available.
+Yanchao Liu: DSA/DSB/DSE 7500: Data Science Practicum, Spring/Summer 2020, 2021, 2022IE 5995: IoT and Edge AI Programming, Winter 2022 - PresentDSA 6000: Data Science and Analytics, Fall 2017 - PresentIE 6210: Applied Engineering Statistics, Fall 2017 - Fall 2021IE 7710: Introduction to Stochastic Processes, Fall 2019 - Present
+John Liu: Courses not available.
+Haipeng Liu: Courses not available.
+Shiyong Lu: Courses not available.
+Syed Mahmud: Courses not available.
+Charles Manke: Courses not available.
+Yanbing Mao: Courses not available.
+Sara Masoud: Eghbali-Zarch M., Zabihi S.Z., and Masoud, S., (2023) A novel fuzzy SECA model based on fuzzy standard deviation and correlation coefficients for resilient-sustainable supplier selection, Expert Systems with Aplications, 120653.Zhang, R., Masoud, S., and Masoud, N. (2023). Impact of Autonomous Vehicles on the Car-Following Behavior of Human Drivers., Journal of Transportation Engineering, Part A: Systems, 149(3).Masoud, S., Zhu, M., Djuric, A., and Rickli, J., (2022) Robotics Laboratory during COVID-19 — Challenges and Future Directions, International Journal of Modern Engineering, 14 DownloadJahanmahin, R., Masoud, S., Rickli, J., & Djuric, A. (2022). Human-robot interactions in manufacturing: A survey of human behavior modeling. Robotics and Computer-Integrated Manufacturing, 78, 102404. Emakhu, J., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Nassereddine, H., ... & Miller, J. B. (2022). Acute coronary syndrome prediction in emergency care: A machine learning approach. Computer Methods and Programs in Biomedicine, 107080. Eghbali-Zarch, M., Tavakkoli-Moghaddam, R., Esfahanian, F., & Masoud, S. (2022). Prioritizing the glucose-lowering medicines for type 2 diabetes by an extended fuzzy decision-making approach with target-based attributes. Medical & Biological Engineering & Computing, 60(8), 2423-2444. Etu, E. E., Monplaisir, L., Masoud, S., Arslanturk, S., Emakhu, J., Tenebe, I., ... & Krupp, S. (2022, June). A Comparison of Univariate and Multivariate Forecasting Models Predicting Emergency Department Patient Arrivals during the COVID-19 Pandemic. In Healthcare (Vol. 10, No. 6, p. 1120). MDPI. Etu, E. E., Monplaisir, L., Arslanturk, S., Masoud, S., Aguwa, C., Markevych, I., & Miller, J. (2022). Prediction of Length of Stay in the Emergency Department for COVID-19 Patients: A Machine Learning Approach. IEEE Access, 10, 42243-42251. Etu, E. E., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Markevych, I., & Miller, J. (2022). Identifying indicators influencing emergency department performance during a medical surge: A consensus-based modified fuzzy Delphi approach. PloS one, 17(4), e0265101. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2021). A Dynamic HMM-based Real-time Location Tracking System Utilizing UHF Passive RFID. IEEE Journal of Radio Frequency Identification. Masoud, S., Mariscal, N., Huang, Y., & Zhu, M. (2021). A Sensor-based Data Driven Framework to Investigate PM2.5 in the Greater Detroit Area. IEEE Sensors Journal.  Masoud, S., Kim, S., Son, Y.J. (2020). Mitigating the Risk of Hazardous Materials Transportation: A Hierarchical Approach, Computers & Industrial Engineering, 148, 106735. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2020). A dynamic data driven indoor localisation framework based on ultra high frequency passive RFID system, International Journal of Sensor Networks,  34 (3), 172-187. Masoud, S., Chowdhury, B. D. B., Son, Y. J., Kubota, C., & Tronstad, R. (2019). Simulation based optimization of resource allocation and facility layout for vegetable grafting operations. Computers and Electronics in Agriculture, 163, 104845. Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2018). “Evaluation of Simulation based Optimization in Grafting Labor Allocation.” Applied Engineering in Agriculture, 34(3): 479-489. Kubota, C., Meng, C., Masoud, S., Son, Y. J., & Tronstad, R. (2018). “Advanced Technologies for Large Scale Plant Factories – Integration of Industrial and Systems Engineering Approach in Controlled Environment Crop Production.” Artificial Light-type Plant Factory, (pp. 354-362), Ed. Masakazu Anpo, Hirokazu FukudaTeruo Wada: Elsevier
+Howard Matthew: Courses not available.
+Shawn McElmurry: Courses not available.
+Olugbenga Mejabi: Mejabi, O. (2003) Framework for a Lean Manufacturing Planning System Int. J. Manufacturing Technology and Management, Vol. 5, No. 5/6, pp. 563-578.
+Mustafa, Y and Mejabi, O. (2002) An Automated Tool for Assessing Information Technology Needs for Small Businesses Journal of Business Strategy, Fall 2002 issue.
+Fatmir Menkulasi: Courses not available.
+Carol Miller: Courses not available.
+Sachin Modi: Courses not available.
+Leslie Monplaisir: Courses not available.
+Seyed Ziae Mousavi Mojab: Courses not available.
+Brian Mundo: Courses not available.
+Ekrem Murat, Ph.D.: Operations and Supply Chain Management: Logistics and Distribution; Supply Chain Network Design; Dynamic Management of Logistics and Distribution Operations; Intermodal Transportation; Horizontal Collaboration in Logistics; Supply Chain Disruptions and Response Management; Assortment Planning for Automotive Supply Chains; Dynamic Capacity Planning with Life Cycle Considerations.
+Healthcare Systems Engineering: Patient Flow and Supply Logistics in Healthcare Facilities; Predictive Analytics for Healthcare Systems; Dynamic Management of Supply and Demand; Planning and Management of Surgery; Intervention and Prevention Resource Allocation and Management.
+Product Development and Logistics Interface: Product Design Optimization and Sustainable Logistics; Design Optimization for Reliability and Sustainment.
+Hadi Nasser: Courses not available.
+Masoud Nazari: Courses not available.
+Gholam-Abbas Nazri: Courses not available.
+Golam Newaz: Courses not available.
+Ka Ng: Courses not available.
+Ali Ozbeki: Courses not available.
+Thomas Palazzolo: Courses not available.
+Abhilash Pandya: Courses not available.
+Jeffrey Potoff: Courses not available.
+Valery Pylypchuk: Courses not available.
+Xiaodong Qian: Courses not available.
+Robert Reynolds: Courses not available.
+Jeremy Rickli: Courses not available.
+Erhard Rothe: Courses not available.
+Abusayeed Saifullah: Courses not available.
+Omid Samimi Abianeh: Courses not available.
+Nabil Sarhan: Courses not available.
+Loren Schwiebert: Professor, 2021 - PresentDepartment Chair, 2014 - 2022Associate Professor, 2001 - 2021Assistant Professor, 1995 - 2001
+Gina Shreve: Biosurfactant specificity and influence on microbial transformation of insoluble hydrocarbons. Factors influencing microbial degradation kinetics of chlorinated aliphatic hydrocarbons in natural anaerobic systems. Transport and reaction of solutes in ultrafiltration membrane bioreactors for environmental and biosynthetic applications. Multiphase reactors for biosynthesis of pharmaceuticals. Molecular Dynamic Simulation of Surfactant and Biosurfactant Micelle Structures Novel Sensor Development for Pathogens and Environmental Toxins Protein Structure/Function Relationship Modeling for Serine Proteases
+William Shuster, Ph.D.: Courses not available.
+Harpreet Singh: Courses not available.
+Dimitrios Sounas: ECE 4800, Electromagnetic Fields and Waves (F18, F19, F20, W21, F21)ECE 3330, Electric Circuits II (F19)ECE 5880, Introduction to Microwave Engineering (F20, F21)
+Mukasa Ssemakula: Courses not available.
+Harini Sundararaghavan: Neural Tissue Engineering
+Designing Polymeric Scaffolds for Directed Cell Migration
+Three dimensional Tissue Engineered Gradients: Chemotaxis, Haptotaxis, Durotaxis
+Directing Differentiation of Adult Stem Cells
+Microfluidics/Soft Lithography
+Electrospinning
+Chin-An Tan: Courses not available.
+John Taylor: Courses not available.
+Gozde Tutuncuoglu: Advanced Nanoelectronics (ECE 5580)
+Capstone Design I (ECE 4600)
+Mumtaz Usmen: Courses not available.
+Joseph Vaglica: Courses not available.
+Saravanan Venkatachalam: Courses not available.
+Yongli Wager: Courses not available.
+Le Yi Wang: Courses not available.
+Caisheng Wang: ECE 5430, Electric Energy Systems Engineering ECE 7860, Operation and Control of Modern Power Systems
+E. Peter Washabaugh: Courses not available.
+Doug Witten: C programmingUNIX Shell programmingPowerShell and Perl ProgrammingEthical Hacking I and IITactical Network Perimeter DefenseMalware and Reverse EngineeringDigital ForensicsInternet and Web SecurityComputer Networks and Computer ArchitectureSystems Development MethodsDatabase Management
+Xin Wu: Material processing and manufacturing, metal forming
+Material behavior and plasticity: metals, ceramics, composites.
+Sean Wu: ME4410 Vibration Theory and Laboratory (current) ME5440 Industrial Noise Control and Applications ME5460 Fundamentals in Acoustic Radiation ME7440 Signal Processing Technologies and Their Applications ME7460 Advanced Acoustic Radiation
+Hwai-Chung Wu: Undergraduate
+CE 4400 Structural Analysis (4 Credits)
+BE 1300 Basic Engineering 2: Material Science and Engineering Applications (3 credits)
+
+Graduate
+CE 6330 Advanced Structural Analysis (4 Credits)
+CE 7300 Advanced Structural Mechanics (4 Credits)
+CE 7460 Advanced Composite Materials for Civil Infrastructure (4 Credits)
+Yong Xu: Courses not available.
+Lihao Xu: Courses not available.
+Qingyu Yang: Associate Professor, 2016-present, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Assistant Professor,  2010-2016, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Research Fellow, 2008-2010, Dept. of Industrial and Operations Engineering, Univ. of Michigan
+Kai Yang: Courses not available.
+Ece Yaprak: Courses not available.
+Murat Yildirim: Courses not available.
+Hao Ying: Courses not available.
+Liying Zhang: Courses not available.
+Jitao Zhang: Courses not available.
+Yang Zhao: Courses not available.
+Zichun Zhong: Computer Graphics
+Geometric Modeling (specifically Surface and Volume Mesh Generations)
+Medical Image Processing (specifically Deformable Image Registration, 3D / 4D Image Reconstruction)
+Visualization
+Computer Vision
+Virtual Reality / Augmented Reality
+GPU Algorithms
+Xingyu Zhou: Courses not available.
+Dongxiao Zhu: Courses not available.
+Yingxi Elaine Zhu: Courses not available.
+Ali Abolmaali: Courses not available.
+Gbemeho Agbaglah: ME 3300 Fluid Mechanics: Theory & Laboratory ME 4300/5330 Thermal-Fluid Systems Design ME 5995 Numerical Methods for Engineering Applications ME 7995 Introduction to Multiphase Flows
+Dr. Raef Aidibi: Ph.D. Systems Engineering (ECE), Oakland University, Rochester Hills, MIMS Electrical & Computer Engineering, Oakland University, Rochester Hills, MIMS Computer Science (Embedded Systems), Oakland University, Rochester Hills, MIBS Electrical Engineering, Lawrence Technological University, Southfield, MI
+Mohammed Alawad: Ph.D. in Computer Engineering, University of Central Florida, 2016
+Lubna Alazzawi: Courses not available.
+Alex Albaugh: Courses not available.
+Mohammad Alhawari: Courses not available.
+Yara Almubarak: Courses not available.
+Leela Mohana Reddy Arava: Lithium-ion, Lithium-sulfur and Lithium-air chemistries using novel electrolytesGrowth and applications of 2D and 3D nanostructuresLightweight nanocomposite materialsFlexible integrated energy devicesSmart coatings
+Suzan Arslanturk: Courses not available.
+Ivan Avrutsky: ECE7030 - Mathematical Methods in Engineering I
+Mohsen Ayoobi: Ph.D., Mechanical Engineering, Louisiana State University, 2015Ph.D. (Minor), Mathematics, Louisiana State University, 2014M.Sc., Mechanical Engineering, Isfahan University of Technology, 2010B.Sc., Mechanical Engineering, Isfahan University of Technology, 2007
+Cameron Bass: Courses not available.
+Amar Basu: Courses not available.
+Victor Berdichevsky: Courses not available.
+Cynthia Bir: Courses not available.
+Camille Bishop: Courses not available.
+Dr. James Boileau: Courses not available.
+Dr. Amiangshu Bosu: CSC 4110: Software Engineering CSC 6110: Software Engineering (Graduate)
+Marco Brocanelli: Courses not available.
+Monica Brockmeyer: Courses not available.
+Zhiqiang Cao: Courses not available.
+Alberto Castro Hernandez: Courses not available.
+Nabil Chalhoub: ME/CE 2400 Statics & Mechanics of Materials ME 4420 Analysis and Control of Dynamic Systems ME 5400 Dynamics II ME 7400 Advanced Dynamics ME 6550 Modeling and Control of Dynamic Systems ME 7550 Optimal Control ME 7590 Nonlinear Control ME 7990 Directed Study
+Kenneth Chelst: Courses not available.
+Jimmy Ching-Ming Chen: Courses not available.
+Wen Chen: ET5110 Advanced Programmable Controllers and Industrial Applications
+EET4200 Control Systems
+EET 3180 Analog Electronics
+EET3150 network Analysis
+EET3720 Microcontroller
+Ratna Babu Chinnam: Courses not available.
+Evrim Dalkiran: IE 4310: Production Control IE 6560: Deterministic Optimization IE 7995: Special Topics in Advanced Optimization Techniques (New Graduate Course) IE 7210: Linear and Nonlinear Optimization (New Graduate Course) ISE 3214: Facilities Planning and Material Handling (Virginia Tech)
+Tapan Datta: Transportation EngineeringTraffic Engineering and Safety
+Da Deng: CHE 7200 - Advanced Transport Phenomena
+CHE 5995 - Spec Topics Che 1:Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+EVE 5120 / AET 5310 - Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+Timothy Dittrich: Courses not available.
+Ana Djuric: Courses not available.
+Ming Dong: Courses not available.
+Zheng Dong: Courses not available.
+Sorin Draghici: Courses not available.
+Helen Durand: Courses not available.
+Christopher Eamon: PhD, Civil Engineering, University of Michigan, 2000 MSE, Civil Engineering, University of Michigan, 1996 MArch, University of Michigan, 1995 BS, Arch, University of Wisconsin, 1993
+Darin Ellis: Courses not available.
+Robert Erlandson: Courses not available.
+Nathan Fisher: Courses not available.
+Farshad Fotouhi: Courses not available.
+Azad Ghaffari: Ph.D., University of California, San DiegoM.S., K.N. Toosi University of Technology, Tehran, IranB.S., K.N. Toosi University of Technology, Tehran, Iran
+Narendra Goel: Courses not available.
+Daniel Grosu: Courses not available.
+Zhizhong Han: Courses not available.
+Xiaoyan Han: Courses not available.
+Carolyn Harris: Courses not available.
+M Arif Hasan: Acoustic Analogous to “Entangled” States of Quantum Bits (and Trits) Topological Characteristics in Classical Wave Metamaterials
+Mohamad Hassoun: Courses not available.
+Naeim Henein: Courses not available.
+Jing Hua: Courses not available.
+Yinlun Huang: Multiscale Complex System Modeling, Analysis, and Decision MakingSustainabiilty Science and EngineeringIntegrated Material, Product, and Process DesignProcess Synthesis and IntegrationSustainable and Smart Manufacturing
+Yaoxian Huang: CE 4210 Introduction to Environmental EngineeringCE 5240/7240 (Advanced) Air Pollution EngineeringCE 6160/7160 (Advanced) Principles of Atmospheric Chemistry and Applications  CE 7270 Big Data Applications in Environmental Engineering
+Raouf Ibrahim: Nonlinear vibration and dynamics
+Nonlinear modal interaction under deterministic and random and excitations
+Friction induced vibration in disc brakes and sliding surfaces
+Friction-based isolation
+Stochastic Flutter of Aeroelastic Structures
+Mahbub Islam: Courses not available.
+Mohammed Ismail: Courses not available.
+Mark Jager: Courses not available.
+Rhongho Jang: [NDSS 2023] A Robust Counting Sketch for Data Plane Intrusion Detection[CCS 2022] A Scalable and Dynamic ACL System for In-Network Defense[NeurIPS 2022] AttCAT: Explaining Transformers via Attentive Class Activation Tokens[RAID 2022] Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems [DSN 2022] Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows[TMC 2022] A One-Page Text Entry Method Optimized for Rectangle Smartwatches [ToN 2022] A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet [TDSC 2021] DL-based Fine-grained Hierarchical Learning Approach for Robust Malware Classification [INFOCOM 2020] SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event [INFOCOM 2020] DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting [ICDCS 2020] Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers [TMC 2020, ICDCS 2017] Rogue Access Point Detection Using Intentional Channel Interference[ICDCS 2019] Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows[INFOCOM 2017] RFlow+: An SDN-based WLAN Monitoring and Management Framework
+Marcis Jansons, Ph.D., P.E.: Courses not available.
+Thaer Jayyousi: Courses not available.
+Mahendra Kavdia: Courses not available.
+Prashant Khanduri: Courses not available.
+Kyoung-Yun Kim, Ph.D.: Courses not available.
+Albert King: Courses not available.
+Ulrike Klueh: Courses not available.
+Hyun Koo: Defect and Risk Management Design management and Building Information Modeling (BIM)  Adaptive Reuse of Buildings
+Alexander Kotov: Courses not available.
+Zhifeng Kou: Courses not available.
+Jerry Ku: Courses not available.
+Ming-Chia Lai: American Society of Mechanical Engineering (ASME): Fellow
+Society of Automotive Engineers (SAE): Fellow
+American Institute of Aeronautics and Astronautics (AIAA)
+The Combustion Institute
+Institute of Liquid Atomization and Spray System (ILASS)-America Section
+Mai Lam: Courses not available.
+Steven Lavrenz: Ph.D., Civil Engineering, Purdue UniversityM.S., Civil Engineering, Iowa State UniversityB.S., Civil Engineering, Iowa State University
+Feng Lin: Courses not available.
+Haipeng Liu: Courses not available.
+John Liu: Courses not available.
+Yanchao Liu: DSA/DSB/DSE 7500: Data Science Practicum, Spring/Summer 2020, 2021, 2022IE 5995: IoT and Edge AI Programming, Winter 2022 - PresentDSA 6000: Data Science and Analytics, Fall 2017 - PresentIE 6210: Applied Engineering Statistics, Fall 2017 - Fall 2021IE 7710: Introduction to Stochastic Processes, Fall 2019 - Present
+Shiyong Lu: Courses not available.
+Syed Mahmud: Courses not available.
+Charles Manke: Courses not available.
+Yanbing Mao: Courses not available.
+Sara Masoud: Eghbali-Zarch M., Zabihi S.Z., and Masoud, S., (2023) A novel fuzzy SECA model based on fuzzy standard deviation and correlation coefficients for resilient-sustainable supplier selection, Expert Systems with Aplications, 120653.Zhang, R., Masoud, S., and Masoud, N. (2023). Impact of Autonomous Vehicles on the Car-Following Behavior of Human Drivers., Journal of Transportation Engineering, Part A: Systems, 149(3).Masoud, S., Zhu, M., Djuric, A., and Rickli, J., (2022) Robotics Laboratory during COVID-19 — Challenges and Future Directions, International Journal of Modern Engineering, 14 DownloadJahanmahin, R., Masoud, S., Rickli, J., & Djuric, A. (2022). Human-robot interactions in manufacturing: A survey of human behavior modeling. Robotics and Computer-Integrated Manufacturing, 78, 102404. Emakhu, J., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Nassereddine, H., ... & Miller, J. B. (2022). Acute coronary syndrome prediction in emergency care: A machine learning approach. Computer Methods and Programs in Biomedicine, 107080. Eghbali-Zarch, M., Tavakkoli-Moghaddam, R., Esfahanian, F., & Masoud, S. (2022). Prioritizing the glucose-lowering medicines for type 2 diabetes by an extended fuzzy decision-making approach with target-based attributes. Medical & Biological Engineering & Computing, 60(8), 2423-2444. Etu, E. E., Monplaisir, L., Masoud, S., Arslanturk, S., Emakhu, J., Tenebe, I., ... & Krupp, S. (2022, June). A Comparison of Univariate and Multivariate Forecasting Models Predicting Emergency Department Patient Arrivals during the COVID-19 Pandemic. In Healthcare (Vol. 10, No. 6, p. 1120). MDPI. Etu, E. E., Monplaisir, L., Arslanturk, S., Masoud, S., Aguwa, C., Markevych, I., & Miller, J. (2022). Prediction of Length of Stay in the Emergency Department for COVID-19 Patients: A Machine Learning Approach. IEEE Access, 10, 42243-42251. Etu, E. E., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Markevych, I., & Miller, J. (2022). Identifying indicators influencing emergency department performance during a medical surge: A consensus-based modified fuzzy Delphi approach. PloS one, 17(4), e0265101. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2021). A Dynamic HMM-based Real-time Location Tracking System Utilizing UHF Passive RFID. IEEE Journal of Radio Frequency Identification. Masoud, S., Mariscal, N., Huang, Y., & Zhu, M. (2021). A Sensor-based Data Driven Framework to Investigate PM2.5 in the Greater Detroit Area. IEEE Sensors Journal.  Masoud, S., Kim, S., Son, Y.J. (2020). Mitigating the Risk of Hazardous Materials Transportation: A Hierarchical Approach, Computers & Industrial Engineering, 148, 106735. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2020). A dynamic data driven indoor localisation framework based on ultra high frequency passive RFID system, International Journal of Sensor Networks,  34 (3), 172-187. Masoud, S., Chowdhury, B. D. B., Son, Y. J., Kubota, C., & Tronstad, R. (2019). Simulation based optimization of resource allocation and facility layout for vegetable grafting operations. Computers and Electronics in Agriculture, 163, 104845. Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2018). “Evaluation of Simulation based Optimization in Grafting Labor Allocation.” Applied Engineering in Agriculture, 34(3): 479-489. Kubota, C., Meng, C., Masoud, S., Son, Y. J., & Tronstad, R. (2018). “Advanced Technologies for Large Scale Plant Factories – Integration of Industrial and Systems Engineering Approach in Controlled Environment Crop Production.” Artificial Light-type Plant Factory, (pp. 354-362), Ed. Masakazu Anpo, Hirokazu FukudaTeruo Wada: Elsevier
+Howard Matthew: Courses not available.
+Shawn McElmurry: Courses not available.
+Olugbenga Mejabi: Mejabi, O. (2003) Framework for a Lean Manufacturing Planning System Int. J. Manufacturing Technology and Management, Vol. 5, No. 5/6, pp. 563-578.
+Mustafa, Y and Mejabi, O. (2002) An Automated Tool for Assessing Information Technology Needs for Small Businesses Journal of Business Strategy, Fall 2002 issue.
+Fatmir Menkulasi: Courses not available.
+Carol Miller: Courses not available.
+Sachin Modi: Courses not available.
+Leslie Monplaisir: Courses not available.
+Seyed Ziae Mousavi Mojab: Courses not available.
+Brian Mundo: Courses not available.
+Ekrem Murat, Ph.D.: Operations and Supply Chain Management: Logistics and Distribution; Supply Chain Network Design; Dynamic Management of Logistics and Distribution Operations; Intermodal Transportation; Horizontal Collaboration in Logistics; Supply Chain Disruptions and Response Management; Assortment Planning for Automotive Supply Chains; Dynamic Capacity Planning with Life Cycle Considerations.
+Healthcare Systems Engineering: Patient Flow and Supply Logistics in Healthcare Facilities; Predictive Analytics for Healthcare Systems; Dynamic Management of Supply and Demand; Planning and Management of Surgery; Intervention and Prevention Resource Allocation and Management.
+Product Development and Logistics Interface: Product Design Optimization and Sustainable Logistics; Design Optimization for Reliability and Sustainment.
+Hadi Nasser: Courses not available.
+Masoud Nazari: Courses not available.
+Gholam-Abbas Nazri: Courses not available.
+Golam Newaz: Courses not available.
+Ka Ng: Courses not available.
+Ali Ozbeki: Courses not available.
+Thomas Palazzolo: Courses not available.
+Abhilash Pandya: Courses not available.
+Jeffrey Potoff: Courses not available.
+Valery Pylypchuk: Courses not available.
+Xiaodong Qian: Courses not available.
+Robert Reynolds: Courses not available.
+Jeremy Rickli: Courses not available.
+Erhard Rothe: Courses not available.
+Abusayeed Saifullah: Courses not available.
+Omid Samimi Abianeh: Courses not available.
+Nabil Sarhan: Courses not available.
+Loren Schwiebert: Professor, 2021 - PresentDepartment Chair, 2014 - 2022Associate Professor, 2001 - 2021Assistant Professor, 1995 - 2001
+Gina Shreve: Biosurfactant specificity and influence on microbial transformation of insoluble hydrocarbons. Factors influencing microbial degradation kinetics of chlorinated aliphatic hydrocarbons in natural anaerobic systems. Transport and reaction of solutes in ultrafiltration membrane bioreactors for environmental and biosynthetic applications. Multiphase reactors for biosynthesis of pharmaceuticals. Molecular Dynamic Simulation of Surfactant and Biosurfactant Micelle Structures Novel Sensor Development for Pathogens and Environmental Toxins Protein Structure/Function Relationship Modeling for Serine Proteases
+William Shuster, Ph.D.: Courses not available.
+Harpreet Singh: Courses not available.
+Dimitrios Sounas: ECE 4800, Electromagnetic Fields and Waves (F18, F19, F20, W21, F21)ECE 3330, Electric Circuits II (F19)ECE 5880, Introduction to Microwave Engineering (F20, F21)
+Mukasa Ssemakula: Courses not available.
+Harini Sundararaghavan: Neural Tissue Engineering
+Designing Polymeric Scaffolds for Directed Cell Migration
+Three dimensional Tissue Engineered Gradients: Chemotaxis, Haptotaxis, Durotaxis
+Directing Differentiation of Adult Stem Cells
+Microfluidics/Soft Lithography
+Electrospinning
+Chin-An Tan: Courses not available.
+John Taylor: Courses not available.
+Gozde Tutuncuoglu: Advanced Nanoelectronics (ECE 5580)
+Capstone Design I (ECE 4600)
+Mumtaz Usmen: Courses not available.
+Joseph Vaglica: Courses not available.
+Saravanan Venkatachalam: Courses not available.
+Yongli Wager: Courses not available.
+Caisheng Wang: ECE 5430, Electric Energy Systems Engineering ECE 7860, Operation and Control of Modern Power Systems
+Le Yi Wang: Courses not available.
+E. Peter Washabaugh: Courses not available.
+Doug Witten: C programmingUNIX Shell programmingPowerShell and Perl ProgrammingEthical Hacking I and IITactical Network Perimeter DefenseMalware and Reverse EngineeringDigital ForensicsInternet and Web SecurityComputer Networks and Computer ArchitectureSystems Development MethodsDatabase Management
+Hwai-Chung Wu: Undergraduate
+CE 4400 Structural Analysis (4 Credits)
+BE 1300 Basic Engineering 2: Material Science and Engineering Applications (3 credits)
+
+Graduate
+CE 6330 Advanced Structural Analysis (4 Credits)
+CE 7300 Advanced Structural Mechanics (4 Credits)
+CE 7460 Advanced Composite Materials for Civil Infrastructure (4 Credits)
+Xin Wu: Material processing and manufacturing, metal forming
+Material behavior and plasticity: metals, ceramics, composites.
+Sean Wu: ME4410 Vibration Theory and Laboratory (current) ME5440 Industrial Noise Control and Applications ME5460 Fundamentals in Acoustic Radiation ME7440 Signal Processing Technologies and Their Applications ME7460 Advanced Acoustic Radiation
+Yong Xu: Courses not available.
+Lihao Xu: Courses not available.
+Kai Yang: Courses not available.
+Qingyu Yang: Associate Professor, 2016-present, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Assistant Professor,  2010-2016, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Research Fellow, 2008-2010, Dept. of Industrial and Operations Engineering, Univ. of Michigan
+Ece Yaprak: Courses not available.
+Murat Yildirim: Courses not available.
+Hao Ying: Courses not available.
+Liying Zhang: Courses not available.
+Jitao Zhang: Courses not available.
+Yang Zhao: Courses not available.
+Zichun Zhong: Computer Graphics
+Geometric Modeling (specifically Surface and Volume Mesh Generations)
+Medical Image Processing (specifically Deformable Image Registration, 3D / 4D Image Reconstruction)
+Visualization
+Computer Vision
+Virtual Reality / Augmented Reality
+GPU Algorithms
+Xingyu Zhou: Courses not available.
+Dongxiao Zhu: Courses not available.
+Yingxi Elaine Zhu: Courses not available.
+Ali Abolmaali: Courses not available.
+Gbemeho Agbaglah: ME 3300 Fluid Mechanics: Theory & Laboratory ME 4300/5330 Thermal-Fluid Systems Design ME 5995 Numerical Methods for Engineering Applications ME 7995 Introduction to Multiphase Flows
+Dr. Raef Aidibi: Ph.D. Systems Engineering (ECE), Oakland University, Rochester Hills, MIMS Electrical & Computer Engineering, Oakland University, Rochester Hills, MIMS Computer Science (Embedded Systems), Oakland University, Rochester Hills, MIBS Electrical Engineering, Lawrence Technological University, Southfield, MI
+Mohammed Alawad: Ph.D. in Computer Engineering, University of Central Florida, 2016
+Lubna Alazzawi: Courses not available.
+Alex Albaugh: Courses not available.
+Mohammad Alhawari: Courses not available.
+Yara Almubarak: Courses not available.
+Leela Mohana Reddy Arava: Lithium-ion, Lithium-sulfur and Lithium-air chemistries using novel electrolytesGrowth and applications of 2D and 3D nanostructuresLightweight nanocomposite materialsFlexible integrated energy devicesSmart coatings
+Suzan Arslanturk: Courses not available.
+Ivan Avrutsky: ECE7030 - Mathematical Methods in Engineering I
+Mohsen Ayoobi: Ph.D., Mechanical Engineering, Louisiana State University, 2015Ph.D. (Minor), Mathematics, Louisiana State University, 2014M.Sc., Mechanical Engineering, Isfahan University of Technology, 2010B.Sc., Mechanical Engineering, Isfahan University of Technology, 2007
+Cameron Bass: Courses not available.
+Amar Basu: Courses not available.
+Victor Berdichevsky: Courses not available.
+Cynthia Bir: Courses not available.
+Camille Bishop: Courses not available.
+Dr. James Boileau: Courses not available.
+Dr. Amiangshu Bosu: CSC 4110: Software Engineering CSC 6110: Software Engineering (Graduate)
+Marco Brocanelli: Courses not available.
+Monica Brockmeyer: Courses not available.
+Zhiqiang Cao: Courses not available.
+Alberto Castro Hernandez: Courses not available.
+Nabil Chalhoub: ME/CE 2400 Statics & Mechanics of Materials ME 4420 Analysis and Control of Dynamic Systems ME 5400 Dynamics II ME 7400 Advanced Dynamics ME 6550 Modeling and Control of Dynamic Systems ME 7550 Optimal Control ME 7590 Nonlinear Control ME 7990 Directed Study
+Kenneth Chelst: Courses not available.
+Jimmy Ching-Ming Chen: Courses not available.
+Wen Chen: ET5110 Advanced Programmable Controllers and Industrial Applications
+EET4200 Control Systems
+EET 3180 Analog Electronics
+EET3150 network Analysis
+EET3720 Microcontroller
+Ratna Babu Chinnam: Courses not available.
+Evrim Dalkiran: IE 4310: Production Control IE 6560: Deterministic Optimization IE 7995: Special Topics in Advanced Optimization Techniques (New Graduate Course) IE 7210: Linear and Nonlinear Optimization (New Graduate Course) ISE 3214: Facilities Planning and Material Handling (Virginia Tech)
+Tapan Datta: Transportation EngineeringTraffic Engineering and Safety
+Da Deng: CHE 7200 - Advanced Transport Phenomena
+CHE 5995 - Spec Topics Che 1:Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+EVE 5120 / AET 5310 - Fundamentals of Battery Systems for Electric and Hybrid Vehicles
+Timothy Dittrich: Courses not available.
+Ana Djuric: Courses not available.
+Ming Dong: Courses not available.
+Zheng Dong: Courses not available.
+Sorin Draghici: Courses not available.
+Helen Durand: Courses not available.
+Christopher Eamon: PhD, Civil Engineering, University of Michigan, 2000 MSE, Civil Engineering, University of Michigan, 1996 MArch, University of Michigan, 1995 BS, Arch, University of Wisconsin, 1993
+Darin Ellis: Courses not available.
+Robert Erlandson: Courses not available.
+Nathan Fisher: Courses not available.
+Farshad Fotouhi: Courses not available.
+Azad Ghaffari: Ph.D., University of California, San DiegoM.S., K.N. Toosi University of Technology, Tehran, IranB.S., K.N. Toosi University of Technology, Tehran, Iran
+Narendra Goel: Courses not available.
+Daniel Grosu: Courses not available.
+Zhizhong Han: Courses not available.
+Xiaoyan Han: Courses not available.
+Carolyn Harris: Courses not available.
+M Arif Hasan: Acoustic Analogous to “Entangled” States of Quantum Bits (and Trits) Topological Characteristics in Classical Wave Metamaterials
+Mohamad Hassoun: Courses not available.
+Naeim Henein: Courses not available.
+Jing Hua: Courses not available.
+Yinlun Huang: Multiscale Complex System Modeling, Analysis, and Decision MakingSustainabiilty Science and EngineeringIntegrated Material, Product, and Process DesignProcess Synthesis and IntegrationSustainable and Smart Manufacturing
+Yaoxian Huang: CE 4210 Introduction to Environmental EngineeringCE 5240/7240 (Advanced) Air Pollution EngineeringCE 6160/7160 (Advanced) Principles of Atmospheric Chemistry and Applications  CE 7270 Big Data Applications in Environmental Engineering
+Raouf Ibrahim: Nonlinear vibration and dynamics
+Nonlinear modal interaction under deterministic and random and excitations
+Friction induced vibration in disc brakes and sliding surfaces
+Friction-based isolation
+Stochastic Flutter of Aeroelastic Structures
+Mahbub Islam: Courses not available.
+Mohammed Ismail: Courses not available.
+Mark Jager: Courses not available.
+Rhongho Jang: [NDSS 2023] A Robust Counting Sketch for Data Plane Intrusion Detection[CCS 2022] A Scalable and Dynamic ACL System for In-Network Defense[NeurIPS 2022] AttCAT: Explaining Transformers via Attentive Class Activation Tokens[RAID 2022] Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems [DSN 2022] Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows[TMC 2022] A One-Page Text Entry Method Optimized for Rectangle Smartwatches [ToN 2022] A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet [TDSC 2021] DL-based Fine-grained Hierarchical Learning Approach for Robust Malware Classification [INFOCOM 2020] SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event [INFOCOM 2020] DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting [ICDCS 2020] Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers [TMC 2020, ICDCS 2017] Rogue Access Point Detection Using Intentional Channel Interference[ICDCS 2019] Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows[INFOCOM 2017] RFlow+: An SDN-based WLAN Monitoring and Management Framework
+Thaer Jayyousi: Courses not available.
+Mahendra Kavdia: Courses not available.
+Prashant Khanduri: Courses not available.
+Kyoung-Yun Kim, Ph.D.: Courses not available.
+Albert King: Courses not available.
+Ulrike Klueh: Courses not available.
+Hyun Koo: Defect and Risk Management Design management and Building Information Modeling (BIM)  Adaptive Reuse of Buildings
+Alexander Kotov: Courses not available.
+Zhifeng Kou: Courses not available.
+Jerry Ku: Courses not available.
+Ming-Chia Lai: American Society of Mechanical Engineering (ASME): Fellow
+Society of Automotive Engineers (SAE): Fellow
+American Institute of Aeronautics and Astronautics (AIAA)
+The Combustion Institute
+Institute of Liquid Atomization and Spray System (ILASS)-America Section
+Mai Lam: Courses not available.
+Steven Lavrenz: Ph.D., Civil Engineering, Purdue UniversityM.S., Civil Engineering, Iowa State UniversityB.S., Civil Engineering, Iowa State University
+Feng Lin: Courses not available.
+Haipeng Liu: Courses not available.
+John Liu: Courses not available.
+Yanchao Liu: DSA/DSB/DSE 7500: Data Science Practicum, Spring/Summer 2020, 2021, 2022IE 5995: IoT and Edge AI Programming, Winter 2022 - PresentDSA 6000: Data Science and Analytics, Fall 2017 - PresentIE 6210: Applied Engineering Statistics, Fall 2017 - Fall 2021IE 7710: Introduction to Stochastic Processes, Fall 2019 - Present
+Shiyong Lu: Courses not available.
+Syed Mahmud: Courses not available.
+Charles Manke: Courses not available.
+Yanbing Mao: Courses not available.
+Sara Masoud: Eghbali-Zarch M., Zabihi S.Z., and Masoud, S., (2023) A novel fuzzy SECA model based on fuzzy standard deviation and correlation coefficients for resilient-sustainable supplier selection, Expert Systems with Aplications, 120653.Zhang, R., Masoud, S., and Masoud, N. (2023). Impact of Autonomous Vehicles on the Car-Following Behavior of Human Drivers., Journal of Transportation Engineering, Part A: Systems, 149(3).Masoud, S., Zhu, M., Djuric, A., and Rickli, J., (2022) Robotics Laboratory during COVID-19 — Challenges and Future Directions, International Journal of Modern Engineering, 14 DownloadJahanmahin, R., Masoud, S., Rickli, J., & Djuric, A. (2022). Human-robot interactions in manufacturing: A survey of human behavior modeling. Robotics and Computer-Integrated Manufacturing, 78, 102404. Emakhu, J., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Nassereddine, H., ... & Miller, J. B. (2022). Acute coronary syndrome prediction in emergency care: A machine learning approach. Computer Methods and Programs in Biomedicine, 107080. Eghbali-Zarch, M., Tavakkoli-Moghaddam, R., Esfahanian, F., & Masoud, S. (2022). Prioritizing the glucose-lowering medicines for type 2 diabetes by an extended fuzzy decision-making approach with target-based attributes. Medical & Biological Engineering & Computing, 60(8), 2423-2444. Etu, E. E., Monplaisir, L., Masoud, S., Arslanturk, S., Emakhu, J., Tenebe, I., ... & Krupp, S. (2022, June). A Comparison of Univariate and Multivariate Forecasting Models Predicting Emergency Department Patient Arrivals during the COVID-19 Pandemic. In Healthcare (Vol. 10, No. 6, p. 1120). MDPI. Etu, E. E., Monplaisir, L., Arslanturk, S., Masoud, S., Aguwa, C., Markevych, I., & Miller, J. (2022). Prediction of Length of Stay in the Emergency Department for COVID-19 Patients: A Machine Learning Approach. IEEE Access, 10, 42243-42251. Etu, E. E., Monplaisir, L., Aguwa, C., Arslanturk, S., Masoud, S., Markevych, I., & Miller, J. (2022). Identifying indicators influencing emergency department performance during a medical surge: A consensus-based modified fuzzy Delphi approach. PloS one, 17(4), e0265101. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2021). A Dynamic HMM-based Real-time Location Tracking System Utilizing UHF Passive RFID. IEEE Journal of Radio Frequency Identification. Masoud, S., Mariscal, N., Huang, Y., & Zhu, M. (2021). A Sensor-based Data Driven Framework to Investigate PM2.5 in the Greater Detroit Area. IEEE Sensors Journal.  Masoud, S., Kim, S., Son, Y.J. (2020). Mitigating the Risk of Hazardous Materials Transportation: A Hierarchical Approach, Computers & Industrial Engineering, 148, 106735. Chowdhury, B. D. B., Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2020). A dynamic data driven indoor localisation framework based on ultra high frequency passive RFID system, International Journal of Sensor Networks,  34 (3), 172-187. Masoud, S., Chowdhury, B. D. B., Son, Y. J., Kubota, C., & Tronstad, R. (2019). Simulation based optimization of resource allocation and facility layout for vegetable grafting operations. Computers and Electronics in Agriculture, 163, 104845. Masoud, S., Son, Y. J., Kubota, C., & Tronstad, R. (2018). “Evaluation of Simulation based Optimization in Grafting Labor Allocation.” Applied Engineering in Agriculture, 34(3): 479-489. Kubota, C., Meng, C., Masoud, S., Son, Y. J., & Tronstad, R. (2018). “Advanced Technologies for Large Scale Plant Factories – Integration of Industrial and Systems Engineering Approach in Controlled Environment Crop Production.” Artificial Light-type Plant Factory, (pp. 354-362), Ed. Masakazu Anpo, Hirokazu FukudaTeruo Wada: Elsevier
+Howard Matthew: Courses not available.
+Shawn McElmurry: Courses not available.
+Olugbenga Mejabi: Mejabi, O. (2003) Framework for a Lean Manufacturing Planning System Int. J. Manufacturing Technology and Management, Vol. 5, No. 5/6, pp. 563-578.
+Mustafa, Y and Mejabi, O. (2002) An Automated Tool for Assessing Information Technology Needs for Small Businesses Journal of Business Strategy, Fall 2002 issue.
+Fatmir Menkulasi: Courses not available.
+Carol Miller: Courses not available.
+Sachin Modi: Courses not available.
+Leslie Monplaisir: Courses not available.
+Seyed Ziae Mousavi Mojab: Courses not available.
+Brian Mundo: Courses not available.
+Ekrem Murat, Ph.D.: Operations and Supply Chain Management: Logistics and Distribution; Supply Chain Network Design; Dynamic Management of Logistics and Distribution Operations; Intermodal Transportation; Horizontal Collaboration in Logistics; Supply Chain Disruptions and Response Management; Assortment Planning for Automotive Supply Chains; Dynamic Capacity Planning with Life Cycle Considerations.
+Healthcare Systems Engineering: Patient Flow and Supply Logistics in Healthcare Facilities; Predictive Analytics for Healthcare Systems; Dynamic Management of Supply and Demand; Planning and Management of Surgery; Intervention and Prevention Resource Allocation and Management.
+Product Development and Logistics Interface: Product Design Optimization and Sustainable Logistics; Design Optimization for Reliability and Sustainment.
+Hadi Nasser: Courses not available.
+Masoud Nazari: Courses not available.
+Gholam-Abbas Nazri: Courses not available.
+Golam Newaz: Courses not available.
+Ka Ng: Courses not available.
+Ali Ozbeki: Courses not available.
+Thomas Palazzolo: Courses not available.
+Abhilash Pandya: Courses not available.
+Jeffrey Potoff: Courses not available.
+Valery Pylypchuk: Courses not available.
+Xiaodong Qian: Courses not available.
+Robert Reynolds: Courses not available.
+Jeremy Rickli: Courses not available.
+Erhard Rothe: Courses not available.
+Abusayeed Saifullah: Courses not available.
+Omid Samimi Abianeh: Courses not available.
+Nabil Sarhan: Courses not available.
+Loren Schwiebert: Professor, 2021 - PresentDepartment Chair, 2014 - 2022Associate Professor, 2001 - 2021Assistant Professor, 1995 - 2001
+Gina Shreve: Biosurfactant specificity and influence on microbial transformation of insoluble hydrocarbons. Factors influencing microbial degradation kinetics of chlorinated aliphatic hydrocarbons in natural anaerobic systems. Transport and reaction of solutes in ultrafiltration membrane bioreactors for environmental and biosynthetic applications. Multiphase reactors for biosynthesis of pharmaceuticals. Molecular Dynamic Simulation of Surfactant and Biosurfactant Micelle Structures Novel Sensor Development for Pathogens and Environmental Toxins Protein Structure/Function Relationship Modeling for Serine Proteases
+William Shuster, Ph.D.: Courses not available.
+Harpreet Singh: Courses not available.
+Dimitrios Sounas: ECE 4800, Electromagnetic Fields and Waves (F18, F19, F20, W21, F21)ECE 3330, Electric Circuits II (F19)ECE 5880, Introduction to Microwave Engineering (F20, F21)
+Mukasa Ssemakula: Courses not available.
+Harini Sundararaghavan: Neural Tissue Engineering
+Designing Polymeric Scaffolds for Directed Cell Migration
+Three dimensional Tissue Engineered Gradients: Chemotaxis, Haptotaxis, Durotaxis
+Directing Differentiation of Adult Stem Cells
+Microfluidics/Soft Lithography
+Electrospinning
+Chin-An Tan: Courses not available.
+John Taylor: Courses not available.
+Gozde Tutuncuoglu: Advanced Nanoelectronics (ECE 5580)
+Capstone Design I (ECE 4600)
+Mumtaz Usmen: Courses not available.
+Saravanan Venkatachalam: Courses not available.
+Yongli Wager: Courses not available.
+Caisheng Wang: ECE 5430, Electric Energy Systems Engineering ECE 7860, Operation and Control of Modern Power Systems
+Le Yi Wang: Courses not available.
+E. Peter Washabaugh: Courses not available.
+Doug Witten: C programmingUNIX Shell programmingPowerShell and Perl ProgrammingEthical Hacking I and IITactical Network Perimeter DefenseMalware and Reverse EngineeringDigital ForensicsInternet and Web SecurityComputer Networks and Computer ArchitectureSystems Development MethodsDatabase Management
+Hwai-Chung Wu: Undergraduate
+CE 4400 Structural Analysis (4 Credits)
+BE 1300 Basic Engineering 2: Material Science and Engineering Applications (3 credits)
+
+Graduate
+CE 6330 Advanced Structural Analysis (4 Credits)
+CE 7300 Advanced Structural Mechanics (4 Credits)
+CE 7460 Advanced Composite Materials for Civil Infrastructure (4 Credits)
+Xin Wu: Material processing and manufacturing, metal forming
+Material behavior and plasticity: metals, ceramics, composites.
+Sean Wu: ME4410 Vibration Theory and Laboratory (current) ME5440 Industrial Noise Control and Applications ME5460 Fundamentals in Acoustic Radiation ME7440 Signal Processing Technologies and Their Applications ME7460 Advanced Acoustic Radiation
+Yong Xu: Courses not available.
+Lihao Xu: Courses not available.
+Kai Yang: Courses not available.
+Qingyu Yang: Associate Professor, 2016-present, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Assistant Professor,  2010-2016, Dept. of Industrial and Systems Engineering, Wayne State Univ. 
+Research Fellow, 2008-2010, Dept. of Industrial and Operations Engineering, Univ. of Michigan
+Ece Yaprak: Courses not available.
+Murat Yildirim: Courses not available.
+Hao Ying: Courses not available.
+Liying Zhang: Courses not available.
+Jitao Zhang: Courses not available.
+Yang Zhao: Courses not available.
+Zichun Zhong: Computer Graphics
+Geometric Modeling (specifically Surface and Volume Mesh Generations)
+Medical Image Processing (specifically Deformable Image Registration, 3D / 4D Image Reconstruction)
+Visualization
+Computer Vision
+Virtual Reality / Augmented Reality
+GPU Algorithms
+Xingyu Zhou: Courses not available.
+Dongxiao Zhu: Courses not available.
+Yingxi Elaine Zhu: Courses not available.
